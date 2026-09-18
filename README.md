@@ -1,3 +1,6 @@
+<img width="1200" height="675" alt="roadmaster-visualisation" src="https://github.com/user-attachments/assets/5147f5b7-7e26-474e-a274-cdf36aa54128" />
+
+
 # Railway Operations System
 
 A comprehensive system for ingesting timetables and SOPs, detecting delays, suggesting recovery moves, and providing SOP-grounded Q&A for railway operations.
@@ -107,10 +110,5 @@ The visualizer is a static HTML/JS app in `track-visualizer/`. It only needs the
 
 Contributions welcome. Fork, create a branch, and open a PR. Run tests (if added) and keep changes focused.
 
-## License
-
-MIT-style (add your preferred license file if required).
-
----
 
 For more details see the API code in [src/api/main.py](src/api/main.py) and the UI at [src/ui/app.py](src/ui/app.py).
